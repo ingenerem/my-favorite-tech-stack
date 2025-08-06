@@ -1,0 +1,53 @@
+[
+  {
+    "name": "React",
+    "logo": "/icons/React.png",
+    "description": "⚛️ I like how React makes it easy to build websites that change and respond without reloading the page. Components help keep everything organized.",
+    "link": "https://reactjs.org/"
+  },
+  {
+    "name": "Java",
+    "logo": "/icons/Java.png",
+    "description": "☕ Java is solid and dependable. I enjoy using it to build backend systems that need to handle a lot of users or data without breaking.",
+    "link": "https://www.java.com/en/"
+  },
+  {
+  "name": "Spring Boot",
+  "logo": "/icons/Spring.png",
+  "description": "🌿 I like using Spring Boot because it helps me build backend services quickly and keeps everything organized. It works great with Java.",
+  "link": "https://spring.io/projects/spring-boot"
+  },
+  {
+    "name": "Python",
+    "logo": "/icons/python.png",
+    "description": "🐍 Python is easy to read and write, which makes it great for trying out ideas quickly. I use it when I want to focus on logic instead of syntax.",
+    "link": "https://www.python.org/"
+  },
+  {
+    "name": "JavaScript",
+    "logo": "/icons/JS.png",
+    "description": "🟨 JavaScript brings websites to life. I like how I can use it to make things move, change, or respond when people interact with a page.",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+  },
+  {
+    "name": "NodeJS",
+    "logo": "/icons/Nodejs.png",
+    "description": "🌱 I like how NodeJS lets me build the backend of an app using JavaScript. It’s fast and simple, and I can use the same language on both ends.",
+    "link": "https://nodejs.org/en"
+  },
+  {
+  "name": "HTML",
+  "logo": "/icons/html.png",
+  "description": "📄 HTML is the backbone of any webpage. I like how simple it is to structure content and get something visual up and running fast.",
+  "link": "https://developer.mozilla.org/en-US/docs/Web/HTML"
+  
+  },
+  {
+    "name": "C/C++",
+    "logo": "/icons/c-cpp.png",
+    "description": "💻 C and C++ give me more control over what the computer is doing. I enjoy using them when I want things to be fast and efficient.",
+    "link": "https://en.cppreference.com"
+  }
+
+  
+]
