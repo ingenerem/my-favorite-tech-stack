@@ -5,8 +5,7 @@ import skillData from './data/skillData.json'
 
 function App() {
 
-  //const skills = skillData;
-  const skills = skillData.map(skill=> <TechItem item={skill.logo}
+  const skills = skillData.map((skill, index)=> <TechItem key={index} item={skill.logo}
                  desc={skill.description} web={skill.link} name={skill.name}/>)
 
   return (
